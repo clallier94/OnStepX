@@ -219,8 +219,6 @@
 #define MFLIP_AUTOMATIC_DEFAULT       OFF //    OFF, ON Start with automatic meridian flips enabled.                          Option
 #define MFLIP_AUTOMATIC_MEMORY         ON //    OFF, ON Remember automatic meridian flip setting across power cycles.         Option
 
-#define MFLIP_PAUSE_HOME_MEMORY       OFF //    OFF, ON Remember meridian flip pause at home setting across power cycles.     Infreq
-
 #define PIER_SIDE_SYNC_CHANGE_SIDES   OFF //    OFF, ON Allows sync to change pier side, for GEM mounts.                      Option
 #define PIER_SIDE_PREFERRED_DEFAULT  BEST //   BEST, BEST Stays on current side if possible. EAST or WEST switch if possible. Option
                                           //         AUTOMATIC prefers west nearer the under pole meridian or east otherwise. Option
